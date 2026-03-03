@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Your Monster",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2026-03-03T07:51:38.437270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Your Monster",
+      "artist": "The Dark Element",
+      "has_synced": true,
+      "path": "select/01_Not_Your_Monster_The_Dark_Element.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Your Monster",
+      "artist": "GWAR",
+      "has_synced": true,
+      "path": "select/02_I'll_Be_Your_Monster_GWAR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Your Monster On A Leash",
+      "artist": "Tower of Power",
+      "has_synced": false,
+      "path": "select/03_Keep_Your_Monster_On_A_Leash_Tower_of_Power.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be Your Monster (Acoustic)",
+      "artist": "GWAR",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_Your_Monster_(Acoustic)_GWAR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Your Monster On A Leash (Album Version)",
+      "artist": "Tower of Power",
+      "has_synced": false,
+      "path": "select/05_Keep_Your_Monster_On_A_Leash_(Album_Version)_Tower_of_Power.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Set Your Monster Free",
+      "artist": "Quiet Company",
+      "has_synced": true,
+      "path": "select/06_Set_Your_Monster_Free_Quiet_Company.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MAKE ME YOUR MONSTER",
+      "artist": "Clinton Kane",
+      "has_synced": false,
+      "path": "select/07_MAKE_ME_YOUR_MONSTER_Clinton_Kane.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Clinton Kane - MAKE ME YOUR MONSTER (Official Visualizer)",
+      "artist": "Clinton Kane",
+      "has_synced": true,
+      "path": "select/08_Clinton_Kane_-_MAKE_ME_YOUR_MONSTER_(Official_Visualizer)_Clinton_Kane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Find Your Monster",
+      "artist": "Anxious Club",
+      "has_synced": true,
+      "path": "select/09_Find_Your_Monster_Anxious_Club.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be Your Monster (acoustic version)",
+      "artist": "Gwar",
+      "has_synced": true,
+      "path": "select/10_I'll_Be_Your_Monster_(acoustic_version)_Gwar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tie Your Monster Down",
+      "artist": "Quiet Company",
+      "has_synced": false,
+      "path": "select/11_Tie_Your_Monster_Down_Quiet_Company.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Set Your Monster Free (My New Year’s Resolution Is to Cope With My Morality)",
+      "artist": "Quiet Company",
+      "has_synced": true,
+      "path": "select/12_Set_Your_Monster_Free_(My_New_Year’s_Resolution_Is_to_Cope_With_My_Morality)_Quiet_Company.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Your Monster",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_Your_Monster_VOLTACTION.txt"
+    }
+  ]
+}
